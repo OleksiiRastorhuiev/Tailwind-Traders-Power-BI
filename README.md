@@ -28,9 +28,9 @@ For this Project I have used following tools:
 2. Median Sales Trends Distribution: 
 	* Median Sales Distribution of OAE had the highest median sales of $680 (45 % of total), the lowest share had UK: $144
 	* Average Median Sales was $222,4, and forecast Median sales increased  to $299,2 (increase 35%)
- 3. Net Revenue by Product:
-    	* Modular Sofa Set brought the highest Net Revenue of $928.36, whereas Velvet Cushion Cover had the lowest value of $374.79.
-5. Yearly Profit Margin Trends:
+3. Net Revenue by Product:
+	* Modular Sofa Set brought the highest Net Revenue of $928.36, whereas Velvet Cushion Cover had the lowest value of $374.79.
+4. Yearly Profit Margin Trends:
 	* Profit margin remained relatively constant from August 15, 2023, to October 16, 2023
 	* Notable increase by 100.00% between October 4 and October 6, 2023
 	* Lowest values were observed in a period between August 30 and September 22, 2023
