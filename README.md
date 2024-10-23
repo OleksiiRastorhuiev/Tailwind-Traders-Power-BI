@@ -17,9 +17,9 @@ This is the capstone project for Microsoft Power BI Data Analysist Professional 
    * Use various visualizations (e.g., line charts, bar graphs, maps) to highlight key metrics
      
 For this Project I have used following tools:
-	* Power BI: data visualization and dashboard creation
-	* Power Query: data cleaning and transformation
-	* DAX (Data Analysis Expressions): creating custom calculations and measures
+   * Power BI: data visualization and dashboard creation
+   * Power Query: data cleaning and transformation
+   * DAX (Data Analysis Expressions): creating custom calculations and measures
  
 ## Key Findings:
 1. Loyalty Points Distribution:
